@@ -21,8 +21,8 @@
 #include <OdyAudio.h>
 #include <OdyOscillator.h>
 #include <OdyNoise.h>
-#include <AtmPatch/AtmPatch.h>
-#include <MasterClock/MasterClock.h>
+#include <AtmPatch.h>
+#include <MasterClock.h>
 #include <SsHelpers.h>
 #include <Envelope.h>
 #include <OdyAmplifier.h>
@@ -35,7 +35,7 @@
 #include <LedRgb.h>
 #include <AnalogueControl.h>
 #include <Switch.h>
-#include <StepSequencer/StepSequencer.h>
+#include <StepSequencer.h>
 
 MinOdy miniOdytron;
 
