@@ -54,67 +54,50 @@
     <ListValues>
       <Value>__AVR_ATmega328p__</Value>
       <Value>__AVR_ATmega328P__</Value>
-      <Value>ARDUINO=10607</Value>
+      <Value>ARDUINO=10805</Value>
       <Value>ARDUINO_MAIN</Value>
       <Value>F_CPU=16000000L</Value>
       <Value>__AVR__</Value>
+      <Value>SEQUENCE=ODY</Value>
+      <Value>PCB_ISSUE=3</Value>
       <Value>ARDUINO_AVR_UNO</Value>
       <Value>ARDUINO_ARCH_AVR</Value>
     </ListValues>
   </avrgcc.compiler.symbols.DefSymbols>
   <avrgcc.compiler.directories.IncludePaths>
     <ListValues>
-      <Value>D:/Documents/Arduino/libraries/AtmPatch</Value>
-      <Value>D:/Documents/Arduino/libraries/MasterClock</Value>
-      <Value>D:/Documents/Arduino/libraries/StepSequencer</Value>
-      <Value>D:/Documents/Arduino/libraries/MinOdy</Value>
-      <Value>D:/Documents/Arduino/libraries/MinOdyEngine</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyAudio</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyOscillator</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyNoise</Value>
-      <Value>D:/Documents/Arduino/libraries/SsHelpers</Value>
-      <Value>D:/Documents/Arduino/libraries/Envelope</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyAmplifier</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyFilter</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyHpf</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyLfo</Value>
-      <Value>D:/Documents/Arduino/libraries/Portamento</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyPitch</Value>
-      <Value>D:/Documents/Arduino/libraries/Midi</Value>
-      <Value>D:/Documents/Arduino/libraries/MinHardware</Value>
-      <Value>D:/Documents/Arduino/libraries/LedRgb</Value>
-      <Value>D:/Documents/Arduino/libraries/AnalogueControl</Value>
-      <Value>D:/Documents/Arduino/libraries/Switch</Value>
-      <Value>D:/Documents/Arduino/libraries/AnalogueControl/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/AtmPatch/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/Envelope/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/LedRgb/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/MasterClock/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/Midi/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/MinHardware/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/MinOdy/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/MinOdyEngine/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyAmplifier/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyAudio/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyFilter/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyHpf/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyLfo/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyNoise/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyOscillator/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyPitch/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/Portamento/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/SsHelpers/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/StepSequencer/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/Switch/utility</Value>
+      <Value>../../../SsMinOdytron</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/MinOdy</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/MinOdyEngine</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/MinHardware</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyAudio</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyOscillator</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyNoise</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/SsHelpers</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/AtmPatch</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/Envelope</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyAmplifier</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyFilter</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyHpf</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyLfo</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/Portamento</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyPitch</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/Midi</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/StepSequencer</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/MasterClock</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/LedRgb</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/AnalogueControl</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/Switch</Value>
       <Value>C:/Program Files (x86)/Arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries</Value>
-      <Value>D:/Documents/Arduino/libraries</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard</Value>
-      <Value>../../../SsMinOdytron</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/</Value>
-      <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr//avr/include/avr/</Value>
+      <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/avr/</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</Value>
+      <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.2/include</Value>
+      <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.3/include</Value>
     </ListValues>
   </avrgcc.compiler.directories.IncludePaths>
   <avrgcc.compiler.optimization.level>Optimize (-O1)</avrgcc.compiler.optimization.level>
@@ -128,67 +111,50 @@
     <ListValues>
       <Value>__AVR_ATmega328p__</Value>
       <Value>__AVR_ATmega328P__</Value>
-      <Value>ARDUINO=10607</Value>
+      <Value>ARDUINO=10805</Value>
       <Value>ARDUINO_MAIN</Value>
       <Value>F_CPU=16000000L</Value>
       <Value>__AVR__</Value>
+      <Value>SEQUENCE=ODY</Value>
+      <Value>PCB_ISSUE=3</Value>
       <Value>ARDUINO_AVR_UNO</Value>
       <Value>ARDUINO_ARCH_AVR</Value>
     </ListValues>
   </avrgcccpp.compiler.symbols.DefSymbols>
   <avrgcccpp.compiler.directories.IncludePaths>
     <ListValues>
-      <Value>D:/Documents/Arduino/libraries/AtmPatch</Value>
-      <Value>D:/Documents/Arduino/libraries/MasterClock</Value>
-      <Value>D:/Documents/Arduino/libraries/StepSequencer</Value>
-      <Value>D:/Documents/Arduino/libraries/MinOdy</Value>
-      <Value>D:/Documents/Arduino/libraries/MinOdyEngine</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyAudio</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyOscillator</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyNoise</Value>
-      <Value>D:/Documents/Arduino/libraries/SsHelpers</Value>
-      <Value>D:/Documents/Arduino/libraries/Envelope</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyAmplifier</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyFilter</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyHpf</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyLfo</Value>
-      <Value>D:/Documents/Arduino/libraries/Portamento</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyPitch</Value>
-      <Value>D:/Documents/Arduino/libraries/Midi</Value>
-      <Value>D:/Documents/Arduino/libraries/MinHardware</Value>
-      <Value>D:/Documents/Arduino/libraries/LedRgb</Value>
-      <Value>D:/Documents/Arduino/libraries/AnalogueControl</Value>
-      <Value>D:/Documents/Arduino/libraries/Switch</Value>
-      <Value>D:/Documents/Arduino/libraries/AnalogueControl/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/AtmPatch/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/Envelope/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/LedRgb/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/MasterClock/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/Midi/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/MinHardware/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/MinOdy/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/MinOdyEngine/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyAmplifier/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyAudio/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyFilter/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyHpf/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyLfo/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyNoise/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyOscillator/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyPitch/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/Portamento/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/SsHelpers/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/StepSequencer/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/Switch/utility</Value>
+      <Value>../../../SsMinOdytron</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/MinOdy</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/MinOdyEngine</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/MinHardware</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyAudio</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyOscillator</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyNoise</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/SsHelpers</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/AtmPatch</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/Envelope</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyAmplifier</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyFilter</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyHpf</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyLfo</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/Portamento</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyPitch</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/Midi</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/StepSequencer</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/MasterClock</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/LedRgb</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/AnalogueControl</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/Switch</Value>
       <Value>C:/Program Files (x86)/Arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries</Value>
-      <Value>D:/Documents/Arduino/libraries</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard</Value>
-      <Value>../../../SsMinOdytron</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/</Value>
-      <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr//avr/include/avr/</Value>
+      <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/avr/</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</Value>
+      <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.2/include</Value>
+      <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.3/include</Value>
     </ListValues>
   </avrgcccpp.compiler.directories.IncludePaths>
   <avrgcccpp.compiler.optimization.level>Optimize (-O1)</avrgcccpp.compiler.optimization.level>
@@ -199,10 +165,11 @@
   <avrgcccpp.assembler.debugging.DebugLevel>Default (-Wa,-g)</avrgcccpp.assembler.debugging.DebugLevel>
 </AvrGccCpp>
     </ToolchainSettings>
-    <VMSETTING_IncludePaths>C:/Program Files (x86)/Arduino/libraries;C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries;D:/Documents/Arduino/libraries;C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino;C:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard;../../../SsMinOdytron;C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/;C:/Program Files (x86)/Arduino/hardware/tools/avr//avr/include/avr/;C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include;D:/Documents/Arduino/libraries/AnalogueControl;D:/Documents/Arduino/libraries/AnalogueControl/utility;D:/Documents/Arduino/libraries/AtmHardware;D:/Documents/Arduino/libraries/AtmHardware/utility;D:/Documents/Arduino/libraries/Envelope;D:/Documents/Arduino/libraries/Envelope/utility;D:/Documents/Arduino/libraries/LedRgb;D:/Documents/Arduino/libraries/LedRgb/utility;D:/Documents/Arduino/libraries/Midi;D:/Documents/Arduino/libraries/Midi/utility;D:/Documents/Arduino/libraries/MinOdy;D:/Documents/Arduino/libraries/MinOdy/utility;D:/Documents/Arduino/libraries/MinOdyEngine;D:/Documents/Arduino/libraries/MinOdyEngine/utility;D:/Documents/Arduino/libraries/OdyAmplifier;D:/Documents/Arduino/libraries/OdyAmplifier/utility;D:/Documents/Arduino/libraries/OdyAudio;D:/Documents/Arduino/libraries/OdyAudio/utility;D:/Documents/Arduino/libraries/OdyFilter;D:/Documents/Arduino/libraries/OdyFilter/utility;D:/Documents/Arduino/libraries/OdyHpf;D:/Documents/Arduino/libraries/OdyHpf/utility;D:/Documents/Arduino/libraries/OdyLfo;D:/Documents/Arduino/libraries/OdyLfo/utility;D:/Documents/Arduino/libraries/OdyNoise;D:/Documents/Arduino/libraries/OdyNoise/utility;D:/Documents/Arduino/libraries/OdyOscillator;D:/Documents/Arduino/libraries/OdyOscillator/utility;D:/Documents/Arduino/libraries/OdyPatch;D:/Documents/Arduino/libraries/OdyPatch/utility;D:/Documents/Arduino/libraries/OdyPitch;D:/Documents/Arduino/libraries/OdyPitch/utility;D:/Documents/Arduino/libraries/Portamento;D:/Documents/Arduino/libraries/Portamento/utility;D:/Documents/Arduino/libraries/SsHelpers;D:/Documents/Arduino/libraries/SsHelpers/utility;D:/Documents/Arduino/libraries/Switch;D:/Documents/Arduino/libraries/Switch/utility;D:/Documents/Arduino/libraries/AtmPatch;D:/Documents/Arduino/libraries/AtmPatch/utility;D:/Documents/Arduino/libraries/MasterClock;D:/Documents/Arduino/libraries/MasterClock/utility;D:/Documents/Arduino/libraries/StepSequencer;D:/Documents/Arduino/libraries/StepSequencer/utility;D:/Documents/Arduino/libraries/MinHardware;D:/Documents/Arduino/libraries/MinHardware/utility;D:/Documents/Arduino/libraries/MinEngine;D:/Documents/Arduino/libraries/AtmAudio;D:/Documents/Arduino/libraries/Wavetable;D:/Documents/Arduino/libraries/AtmOscillator;D:/Documents/Arduino/libraries/Amplifier;D:/Documents/Arduino/libraries/BiquadFilter;D:/Documents/Arduino/libraries/Lfo;D:/Documents/Arduino/libraries/AtmPitch;D:/Documents/Arduino/libraries/Wavecrusher;D:/Documents/Arduino/libraries/Flanger;D:/Documents/Arduino/libraries/ClipDistortion;D:/Documents/Arduino/libraries/Pwm;D:/Documents/Arduino/libraries/MinEngine/utility;</VMSETTING_IncludePaths>
+    <VMSETTING_IncludePaths>C:/Program Files (x86)/Arduino/libraries;C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries;D:/Documents/Arduino/libraries;C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino;C:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard;../../../SsMinOdytron;C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/;C:/Program Files (x86)/Arduino/hardware/tools/avr//avr/include/avr/;C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include;D:/Documents/Arduino/libraries/AnalogueControl;D:/Documents/Arduino/libraries/AnalogueControl/utility;D:/Documents/Arduino/libraries/AtmHardware;D:/Documents/Arduino/libraries/AtmHardware/utility;D:/Documents/Arduino/libraries/Envelope;D:/Documents/Arduino/libraries/Envelope/utility;D:/Documents/Arduino/libraries/LedRgb;D:/Documents/Arduino/libraries/LedRgb/utility;D:/Documents/Arduino/libraries/Midi;D:/Documents/Arduino/libraries/Midi/utility;D:/Documents/Arduino/libraries/MinOdy;D:/Documents/Arduino/libraries/MinOdy/utility;D:/Documents/Arduino/libraries/MinOdyEngine;D:/Documents/Arduino/libraries/MinOdyEngine/utility;D:/Documents/Arduino/libraries/OdyAmplifier;D:/Documents/Arduino/libraries/OdyAmplifier/utility;D:/Documents/Arduino/libraries/OdyAudio;D:/Documents/Arduino/libraries/OdyAudio/utility;D:/Documents/Arduino/libraries/OdyFilter;D:/Documents/Arduino/libraries/OdyFilter/utility;D:/Documents/Arduino/libraries/OdyHpf;D:/Documents/Arduino/libraries/OdyHpf/utility;D:/Documents/Arduino/libraries/OdyLfo;D:/Documents/Arduino/libraries/OdyLfo/utility;D:/Documents/Arduino/libraries/OdyNoise;D:/Documents/Arduino/libraries/OdyNoise/utility;D:/Documents/Arduino/libraries/OdyOscillator;D:/Documents/Arduino/libraries/OdyOscillator/utility;D:/Documents/Arduino/libraries/OdyPatch;D:/Documents/Arduino/libraries/OdyPatch/utility;D:/Documents/Arduino/libraries/OdyPitch;D:/Documents/Arduino/libraries/OdyPitch/utility;D:/Documents/Arduino/libraries/Portamento;D:/Documents/Arduino/libraries/Portamento/utility;D:/Documents/Arduino/libraries/SsHelpers;D:/Documents/Arduino/libraries/SsHelpers/utility;D:/Documents/Arduino/libraries/Switch;D:/Documents/Arduino/libraries/Switch/utility;D:/Documents/Arduino/libraries/AtmPatch;D:/Documents/Arduino/libraries/AtmPatch/utility;D:/Documents/Arduino/libraries/MasterClock;D:/Documents/Arduino/libraries/MasterClock/utility;D:/Documents/Arduino/libraries/StepSequencer;D:/Documents/Arduino/libraries/StepSequencer/utility;D:/Documents/Arduino/libraries/MinHardware;D:/Documents/Arduino/libraries/MinHardware/utility;D:/Documents/Arduino/libraries/MinEngine;D:/Documents/Arduino/libraries/AtmAudio;D:/Documents/Arduino/libraries/Wavetable;D:/Documents/Arduino/libraries/AtmOscillator;D:/Documents/Arduino/libraries/Amplifier;D:/Documents/Arduino/libraries/BiquadFilter;D:/Documents/Arduino/libraries/Lfo;D:/Documents/Arduino/libraries/AtmPitch;D:/Documents/Arduino/libraries/Wavecrusher;D:/Documents/Arduino/libraries/Flanger;D:/Documents/Arduino/libraries/ClipDistortion;D:/Documents/Arduino/libraries/Pwm;D:/Documents/Arduino/libraries/MinEngine/utility;C:/Program Files (x86)/Atmel/Studio/7.0/Extensions/hywf5y4e.sfq/Micro Platforms/default/debuggers;C:/Users/info/Documents/Arduino/libraries/AnalogueControl;C:/Users/info/Documents/Arduino/libraries/AtmPatch;C:/Users/info/Documents/Arduino/libraries/Envelope;C:/Users/info/Documents/Arduino/libraries/LedRgb;C:/Users/info/Documents/Arduino/libraries/MasterClock;C:/Users/info/Documents/Arduino/libraries/Midi;C:/Users/info/Documents/Arduino/libraries/MinHardware;C:/Users/info/Documents/Arduino/libraries/MinOdy;C:/Users/info/Documents/Arduino/libraries/MinOdyEngine;C:/Users/info/Documents/Arduino/libraries/OdyAmplifier;C:/Users/info/Documents/Arduino/libraries/OdyAudio;C:/Users/info/Documents/Arduino/libraries/OdyFilter;C:/Users/info/Documents/Arduino/libraries/OdyHpf;C:/Users/info/Documents/Arduino/libraries/OdyLfo;C:/Users/info/Documents/Arduino/libraries/OdyNoise;C:/Users/info/Documents/Arduino/libraries/OdyOscillator;C:/Users/info/Documents/Arduino/libraries/OdyPitch;C:/Users/info/Documents/Arduino/libraries/Portamento;C:/Users/info/Documents/Arduino/libraries/SsHelpers;C:/Users/info/Documents/Arduino/libraries/StepSequencer;C:/Users/info/Documents/Arduino/libraries/Switch;C:/Users/info/Documents/Arduino/libraries;C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/avr/;C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.2/include;C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.3/include;</VMSETTING_IncludePaths>
     <VisualMicroSettings>
-      <VisualMicroSettings xmlns="">
-        <arduino.upload.port>COM66</arduino.upload.port>
+      <VisualMicroSettings>
+        <arduino.upload.port>COM8</arduino.upload.port>
+        <VM_ADDITIONAL_PREPROC>SEQUENCE=ODY;PCB_ISSUE=3</VM_ADDITIONAL_PREPROC>
       </VisualMicroSettings>
     </VisualMicroSettings>
   </PropertyGroup>
@@ -220,67 +187,50 @@
     <ListValues>
       <Value>__AVR_ATmega328p__</Value>
       <Value>__AVR_ATmega328P__</Value>
-      <Value>ARDUINO=10607</Value>
+      <Value>ARDUINO=10805</Value>
       <Value>ARDUINO_MAIN</Value>
       <Value>F_CPU=16000000L</Value>
       <Value>__AVR__</Value>
+      <Value>SEQUENCE=ODY</Value>
+      <Value>PCB_ISSUE=3</Value>
       <Value>ARDUINO_AVR_UNO</Value>
       <Value>ARDUINO_ARCH_AVR</Value>
     </ListValues>
   </avrgcc.compiler.symbols.DefSymbols>
   <avrgcc.compiler.directories.IncludePaths>
     <ListValues>
-      <Value>D:/Documents/Arduino/libraries/AtmPatch</Value>
-      <Value>D:/Documents/Arduino/libraries/MasterClock</Value>
-      <Value>D:/Documents/Arduino/libraries/StepSequencer</Value>
-      <Value>D:/Documents/Arduino/libraries/MinOdy</Value>
-      <Value>D:/Documents/Arduino/libraries/MinOdyEngine</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyAudio</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyOscillator</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyNoise</Value>
-      <Value>D:/Documents/Arduino/libraries/SsHelpers</Value>
-      <Value>D:/Documents/Arduino/libraries/Envelope</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyAmplifier</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyFilter</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyHpf</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyLfo</Value>
-      <Value>D:/Documents/Arduino/libraries/Portamento</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyPitch</Value>
-      <Value>D:/Documents/Arduino/libraries/Midi</Value>
-      <Value>D:/Documents/Arduino/libraries/MinHardware</Value>
-      <Value>D:/Documents/Arduino/libraries/LedRgb</Value>
-      <Value>D:/Documents/Arduino/libraries/AnalogueControl</Value>
-      <Value>D:/Documents/Arduino/libraries/Switch</Value>
-      <Value>D:/Documents/Arduino/libraries/AnalogueControl/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/AtmPatch/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/Envelope/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/LedRgb/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/MasterClock/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/Midi/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/MinHardware/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/MinOdy/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/MinOdyEngine/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyAmplifier/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyAudio/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyFilter/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyHpf/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyLfo/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyNoise/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyOscillator/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyPitch/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/Portamento/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/SsHelpers/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/StepSequencer/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/Switch/utility</Value>
+      <Value>../../../SsMinOdytron</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/MinOdy</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/MinOdyEngine</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/MinHardware</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyAudio</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyOscillator</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyNoise</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/SsHelpers</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/AtmPatch</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/Envelope</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyAmplifier</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyFilter</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyHpf</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyLfo</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/Portamento</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyPitch</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/Midi</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/StepSequencer</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/MasterClock</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/LedRgb</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/AnalogueControl</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/Switch</Value>
       <Value>C:/Program Files (x86)/Arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries</Value>
-      <Value>D:/Documents/Arduino/libraries</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard</Value>
-      <Value>../../../SsMinOdytron</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/</Value>
-      <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr//avr/include/avr/</Value>
+      <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/avr/</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</Value>
+      <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.2/include</Value>
+      <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.3/include</Value>
     </ListValues>
   </avrgcc.compiler.directories.IncludePaths>
   <avrgcc.compiler.optimization.level>Optimize (-O1)</avrgcc.compiler.optimization.level>
@@ -294,67 +244,50 @@
     <ListValues>
       <Value>__AVR_ATmega328p__</Value>
       <Value>__AVR_ATmega328P__</Value>
-      <Value>ARDUINO=10607</Value>
+      <Value>ARDUINO=10805</Value>
       <Value>ARDUINO_MAIN</Value>
       <Value>F_CPU=16000000L</Value>
       <Value>__AVR__</Value>
+      <Value>SEQUENCE=ODY</Value>
+      <Value>PCB_ISSUE=3</Value>
       <Value>ARDUINO_AVR_UNO</Value>
       <Value>ARDUINO_ARCH_AVR</Value>
     </ListValues>
   </avrgcccpp.compiler.symbols.DefSymbols>
   <avrgcccpp.compiler.directories.IncludePaths>
     <ListValues>
-      <Value>D:/Documents/Arduino/libraries/AtmPatch</Value>
-      <Value>D:/Documents/Arduino/libraries/MasterClock</Value>
-      <Value>D:/Documents/Arduino/libraries/StepSequencer</Value>
-      <Value>D:/Documents/Arduino/libraries/MinOdy</Value>
-      <Value>D:/Documents/Arduino/libraries/MinOdyEngine</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyAudio</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyOscillator</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyNoise</Value>
-      <Value>D:/Documents/Arduino/libraries/SsHelpers</Value>
-      <Value>D:/Documents/Arduino/libraries/Envelope</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyAmplifier</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyFilter</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyHpf</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyLfo</Value>
-      <Value>D:/Documents/Arduino/libraries/Portamento</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyPitch</Value>
-      <Value>D:/Documents/Arduino/libraries/Midi</Value>
-      <Value>D:/Documents/Arduino/libraries/MinHardware</Value>
-      <Value>D:/Documents/Arduino/libraries/LedRgb</Value>
-      <Value>D:/Documents/Arduino/libraries/AnalogueControl</Value>
-      <Value>D:/Documents/Arduino/libraries/Switch</Value>
-      <Value>D:/Documents/Arduino/libraries/AnalogueControl/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/AtmPatch/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/Envelope/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/LedRgb/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/MasterClock/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/Midi/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/MinHardware/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/MinOdy/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/MinOdyEngine/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyAmplifier/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyAudio/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyFilter/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyHpf/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyLfo/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyNoise/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyOscillator/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/OdyPitch/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/Portamento/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/SsHelpers/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/StepSequencer/utility</Value>
-      <Value>D:/Documents/Arduino/libraries/Switch/utility</Value>
+      <Value>../../../SsMinOdytron</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/MinOdy</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/MinOdyEngine</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/MinHardware</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyAudio</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyOscillator</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyNoise</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/SsHelpers</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/AtmPatch</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/Envelope</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyAmplifier</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyFilter</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyHpf</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyLfo</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/Portamento</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/OdyPitch</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/Midi</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/StepSequencer</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/MasterClock</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/LedRgb</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/AnalogueControl</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries/Switch</Value>
       <Value>C:/Program Files (x86)/Arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries</Value>
-      <Value>D:/Documents/Arduino/libraries</Value>
+      <Value>C:/Users/info/Documents/Arduino/libraries</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard</Value>
-      <Value>../../../SsMinOdytron</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/</Value>
-      <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr//avr/include/avr/</Value>
+      <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/avr/</Value>
       <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</Value>
+      <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.2/include</Value>
+      <Value>C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.3/include</Value>
     </ListValues>
   </avrgcccpp.compiler.directories.IncludePaths>
   <avrgcccpp.compiler.optimization.level>Optimize (-O1)</avrgcccpp.compiler.optimization.level>
@@ -365,10 +298,11 @@
   <avrgcccpp.assembler.debugging.DebugLevel>Default (-Wa,-g)</avrgcccpp.assembler.debugging.DebugLevel>
 </AvrGccCpp>
     </ToolchainSettings>
-    <VMSETTING_IncludePaths>C:/Program Files (x86)/Arduino/libraries;C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries;D:/Documents/Arduino/libraries;C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino;C:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard;../../../SsMinOdytron;C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/;C:/Program Files (x86)/Arduino/hardware/tools/avr//avr/include/avr/;C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include;D:/Documents/Arduino/libraries/AnalogueControl;D:/Documents/Arduino/libraries/AnalogueControl/utility;D:/Documents/Arduino/libraries/AtmHardware;D:/Documents/Arduino/libraries/AtmHardware/utility;D:/Documents/Arduino/libraries/Envelope;D:/Documents/Arduino/libraries/Envelope/utility;D:/Documents/Arduino/libraries/LedRgb;D:/Documents/Arduino/libraries/LedRgb/utility;D:/Documents/Arduino/libraries/Midi;D:/Documents/Arduino/libraries/Midi/utility;D:/Documents/Arduino/libraries/MinOdy;D:/Documents/Arduino/libraries/MinOdy/utility;D:/Documents/Arduino/libraries/MinOdyEngine;D:/Documents/Arduino/libraries/MinOdyEngine/utility;D:/Documents/Arduino/libraries/OdyAmplifier;D:/Documents/Arduino/libraries/OdyAmplifier/utility;D:/Documents/Arduino/libraries/OdyAudio;D:/Documents/Arduino/libraries/OdyAudio/utility;D:/Documents/Arduino/libraries/OdyFilter;D:/Documents/Arduino/libraries/OdyFilter/utility;D:/Documents/Arduino/libraries/OdyHpf;D:/Documents/Arduino/libraries/OdyHpf/utility;D:/Documents/Arduino/libraries/OdyLfo;D:/Documents/Arduino/libraries/OdyLfo/utility;D:/Documents/Arduino/libraries/OdyNoise;D:/Documents/Arduino/libraries/OdyNoise/utility;D:/Documents/Arduino/libraries/OdyOscillator;D:/Documents/Arduino/libraries/OdyOscillator/utility;D:/Documents/Arduino/libraries/OdyPatch;D:/Documents/Arduino/libraries/OdyPatch/utility;D:/Documents/Arduino/libraries/OdyPitch;D:/Documents/Arduino/libraries/OdyPitch/utility;D:/Documents/Arduino/libraries/Portamento;D:/Documents/Arduino/libraries/Portamento/utility;D:/Documents/Arduino/libraries/SsHelpers;D:/Documents/Arduino/libraries/SsHelpers/utility;D:/Documents/Arduino/libraries/Switch;D:/Documents/Arduino/libraries/Switch/utility;D:/Documents/Arduino/libraries/AtmPatch;D:/Documents/Arduino/libraries/AtmPatch/utility;D:/Documents/Arduino/libraries/MasterClock;D:/Documents/Arduino/libraries/MasterClock/utility;D:/Documents/Arduino/libraries/StepSequencer;D:/Documents/Arduino/libraries/StepSequencer/utility;D:/Documents/Arduino/libraries/MinHardware;D:/Documents/Arduino/libraries/MinHardware/utility;D:/Documents/Arduino/libraries/MinEngine;D:/Documents/Arduino/libraries/AtmAudio;D:/Documents/Arduino/libraries/Wavetable;D:/Documents/Arduino/libraries/AtmOscillator;D:/Documents/Arduino/libraries/Amplifier;D:/Documents/Arduino/libraries/BiquadFilter;D:/Documents/Arduino/libraries/Lfo;D:/Documents/Arduino/libraries/AtmPitch;D:/Documents/Arduino/libraries/Wavecrusher;D:/Documents/Arduino/libraries/Flanger;D:/Documents/Arduino/libraries/ClipDistortion;D:/Documents/Arduino/libraries/Pwm;D:/Documents/Arduino/libraries/MinEngine/utility;</VMSETTING_IncludePaths>
+    <VMSETTING_IncludePaths>C:/Program Files (x86)/Arduino/libraries;C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries;D:/Documents/Arduino/libraries;C:/Program Files (x86)/Arduino/hardware/arduino/avr/cores/arduino;C:/Program Files (x86)/Arduino/hardware/arduino/avr/variants/standard;../../../SsMinOdytron;C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/;C:/Program Files (x86)/Arduino/hardware/tools/avr//avr/include/avr/;C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include;D:/Documents/Arduino/libraries/AnalogueControl;D:/Documents/Arduino/libraries/AnalogueControl/utility;D:/Documents/Arduino/libraries/AtmHardware;D:/Documents/Arduino/libraries/AtmHardware/utility;D:/Documents/Arduino/libraries/Envelope;D:/Documents/Arduino/libraries/Envelope/utility;D:/Documents/Arduino/libraries/LedRgb;D:/Documents/Arduino/libraries/LedRgb/utility;D:/Documents/Arduino/libraries/Midi;D:/Documents/Arduino/libraries/Midi/utility;D:/Documents/Arduino/libraries/MinOdy;D:/Documents/Arduino/libraries/MinOdy/utility;D:/Documents/Arduino/libraries/MinOdyEngine;D:/Documents/Arduino/libraries/MinOdyEngine/utility;D:/Documents/Arduino/libraries/OdyAmplifier;D:/Documents/Arduino/libraries/OdyAmplifier/utility;D:/Documents/Arduino/libraries/OdyAudio;D:/Documents/Arduino/libraries/OdyAudio/utility;D:/Documents/Arduino/libraries/OdyFilter;D:/Documents/Arduino/libraries/OdyFilter/utility;D:/Documents/Arduino/libraries/OdyHpf;D:/Documents/Arduino/libraries/OdyHpf/utility;D:/Documents/Arduino/libraries/OdyLfo;D:/Documents/Arduino/libraries/OdyLfo/utility;D:/Documents/Arduino/libraries/OdyNoise;D:/Documents/Arduino/libraries/OdyNoise/utility;D:/Documents/Arduino/libraries/OdyOscillator;D:/Documents/Arduino/libraries/OdyOscillator/utility;D:/Documents/Arduino/libraries/OdyPatch;D:/Documents/Arduino/libraries/OdyPatch/utility;D:/Documents/Arduino/libraries/OdyPitch;D:/Documents/Arduino/libraries/OdyPitch/utility;D:/Documents/Arduino/libraries/Portamento;D:/Documents/Arduino/libraries/Portamento/utility;D:/Documents/Arduino/libraries/SsHelpers;D:/Documents/Arduino/libraries/SsHelpers/utility;D:/Documents/Arduino/libraries/Switch;D:/Documents/Arduino/libraries/Switch/utility;D:/Documents/Arduino/libraries/AtmPatch;D:/Documents/Arduino/libraries/AtmPatch/utility;D:/Documents/Arduino/libraries/MasterClock;D:/Documents/Arduino/libraries/MasterClock/utility;D:/Documents/Arduino/libraries/StepSequencer;D:/Documents/Arduino/libraries/StepSequencer/utility;D:/Documents/Arduino/libraries/MinHardware;D:/Documents/Arduino/libraries/MinHardware/utility;D:/Documents/Arduino/libraries/MinEngine;D:/Documents/Arduino/libraries/AtmAudio;D:/Documents/Arduino/libraries/Wavetable;D:/Documents/Arduino/libraries/AtmOscillator;D:/Documents/Arduino/libraries/Amplifier;D:/Documents/Arduino/libraries/BiquadFilter;D:/Documents/Arduino/libraries/Lfo;D:/Documents/Arduino/libraries/AtmPitch;D:/Documents/Arduino/libraries/Wavecrusher;D:/Documents/Arduino/libraries/Flanger;D:/Documents/Arduino/libraries/ClipDistortion;D:/Documents/Arduino/libraries/Pwm;D:/Documents/Arduino/libraries/MinEngine/utility;C:/Program Files (x86)/Atmel/Studio/7.0/Extensions/hywf5y4e.sfq/Micro Platforms/default/debuggers;C:/Users/info/Documents/Arduino/libraries/AnalogueControl;C:/Users/info/Documents/Arduino/libraries/AtmPatch;C:/Users/info/Documents/Arduino/libraries/Envelope;C:/Users/info/Documents/Arduino/libraries/LedRgb;C:/Users/info/Documents/Arduino/libraries/MasterClock;C:/Users/info/Documents/Arduino/libraries/Midi;C:/Users/info/Documents/Arduino/libraries/MinHardware;C:/Users/info/Documents/Arduino/libraries/MinOdy;C:/Users/info/Documents/Arduino/libraries/MinOdyEngine;C:/Users/info/Documents/Arduino/libraries/OdyAmplifier;C:/Users/info/Documents/Arduino/libraries/OdyAudio;C:/Users/info/Documents/Arduino/libraries/OdyFilter;C:/Users/info/Documents/Arduino/libraries/OdyHpf;C:/Users/info/Documents/Arduino/libraries/OdyLfo;C:/Users/info/Documents/Arduino/libraries/OdyNoise;C:/Users/info/Documents/Arduino/libraries/OdyOscillator;C:/Users/info/Documents/Arduino/libraries/OdyPitch;C:/Users/info/Documents/Arduino/libraries/Portamento;C:/Users/info/Documents/Arduino/libraries/SsHelpers;C:/Users/info/Documents/Arduino/libraries/StepSequencer;C:/Users/info/Documents/Arduino/libraries/Switch;C:/Users/info/Documents/Arduino/libraries;C:/Program Files (x86)/Arduino/hardware/tools/avr/avr/include/avr/;C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.2/include;C:/Program Files (x86)/Arduino/hardware/tools/avr/lib/gcc/avr/4.9.3/include;</VMSETTING_IncludePaths>
     <VisualMicroSettings>
-      <VisualMicroSettings xmlns="">
-        <arduino.upload.port>COM66</arduino.upload.port>
+      <VisualMicroSettings>
+        <arduino.upload.port>COM8</arduino.upload.port>
+        <VM_ADDITIONAL_PREPROC>SEQUENCE=ODY;PCB_ISSUE=3</VM_ADDITIONAL_PREPROC>
       </VisualMicroSettings>
     </VisualMicroSettings>
   </PropertyGroup>
